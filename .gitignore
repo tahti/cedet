@@ -1,0 +1,7 @@
+*.elc
+doc/info
+doc/texi
+loaddefs.el
+*~
+*-wy.el
+*-by.el
